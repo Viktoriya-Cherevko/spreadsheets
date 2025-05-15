@@ -1,6 +1,6 @@
 # Excel Automation & Financial Reporting – Portfolio Examples
 
-This repository contains real examples (anonymized where needed) of spreadsheet solutions I created at work to automate workflows, improve reporting accuracy, and save time in financial and accounting processes.
+This repository contains real examples (anonymised where needed) of spreadsheet solutions I created at work to automate workflows, improve reporting accuracy, and save time in financial and accounting processes.
 
 ## Contents
 
