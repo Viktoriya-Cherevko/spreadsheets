@@ -4,7 +4,7 @@ This repository contains real examples (anonymised where needed) of spreadsheet 
 
 ## Contents
 
-### 🔹 J Brown Rental Properties 23–24
+### 🔹 J Smith Rental Properties 23-24
 A spreadsheet for tracking rental income, expenses, and property-related cashflows for a client with multiple rental properties.
 
 
